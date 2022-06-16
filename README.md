@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on **ecommerce project**
+- 🔭 I’m currently working on **ecommerce project**(<a href="https://github.com/Sarah1011/spring-boot-ecommerce.git" target="blank">backend</a>/<a href="https://github.com/Sarah1011/angular-ecommerce.git" target="blank">frontend</a>
 
 - 🌱 I’m currently learning **angular, spring-boot**
 
